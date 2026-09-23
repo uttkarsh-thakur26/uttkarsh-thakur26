@@ -23,8 +23,6 @@
 
 I am a final-year **B.Tech Computer Science** student at **Bennett University** (CGPA **8.17/10**, graduating May 2027), working mostly in **Java and Spring Boot** on the backend and **Python** for AI/ML.
 
-Currently going deeper on **distributed systems** and **multi-agent coordination**, which I presented as a seminar talk on agreement loops in multi-agent systems.
-
 ---
 
 ## Tech Stack
