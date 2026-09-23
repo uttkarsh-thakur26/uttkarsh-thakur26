@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Uttkarsh%20Thakur&fontSize=54&fontColor=ffffff&fontAlignY=34&desc=Backend%20%26amp%3B%20AI%2FML%20Engineer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Python&descAlignY=54&descSize=18" alt="Uttkarsh Thakur" width="100%" />
+<img src="./profile/header.svg" alt="Uttkarsh Thakur" width="100%" />
 
 <p>
   <a href="https://www.linkedin.com/in/uttkarsh-thakur-76979228a/">
@@ -98,9 +98,9 @@ I am a final-year **B.Tech Computer Science** student at **Bennett University** 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=uttkarsh-thakur26&hide_border=true&theme=tokyonight&background=00000000&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=uttkarsh-thakur26&hide_border=true&background=00000000&ring=0969da&fire=0969da&currStreakLabel=0969da" />
-  <img src="https://streak-stats.demolab.com?user=uttkarsh-thakur26&hide_border=true" alt="Contribution streak" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/streak-light.svg" />
+  <img src="./profile/streak-light.svg" alt="Contribution streak" height="165" />
 </picture>
 
 </div>
@@ -217,6 +217,6 @@ Open to **backend and AI/ML internships**. The fastest way to reach me is email.
 
 <img src="https://komarev.com/ghpvc/?username=uttkarsh-thakur26&style=flat-square&color=58a6ff&label=Profile+views" alt="Profile views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="" width="100%" />
+<img src="./profile/footer.svg" alt="" width="100%" />
 
 </div>
