@@ -2,11 +2,13 @@ name: Update README cards
 
 # The shared github-readme-stats.vercel.app instance keeps getting paused
 # (HTTP 503 DEPLOYMENT_PAUSED), which breaks every README pointing at it.
-# Render the cards here instead and commit them as static SVGs.
+# Render the cards here instead and commit them as static SVGs, so the
+# README depends on no third-party card server at view time.
 
 on:
   schedule:
-    - cron: "37 2 * * *"
+    # Every 6 hours so the streak card's current streak stays close to live.
+    - cron: "37 */6 * * *"
   workflow_dispatch:
   push:
     paths:
@@ -28,6 +30,7 @@ jobs:
       LANGS: username=${{ github.repository_owner }}&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=00000000
       DARK: theme=tokyonight&title_color=58a6ff&text_color=c9d1d9
       LIGHT: title_color=0969da&text_color=1f2328
+      STREAK: user=${{ github.repository_owner }}&hide_border=true&background=00000000
 
     steps:
       - uses: actions/checkout@v6
@@ -69,6 +72,21 @@ jobs:
           path: profile/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
+
+      # This action already exits non-zero on any fetch error.
+      - name: Streak card (dark)
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: ${{ env.STREAK }}&theme=tokyonight&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff
+          path: profile/streak-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Streak card (light)
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: ${{ env.STREAK }}&ring=0969da&fire=0969da&currStreakLabel=0969da
+          path: profile/streak-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
         run: |
