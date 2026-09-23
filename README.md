@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Uttkarsh%20Thakur&fontSize=54&fontColor=ffffff&fontAlignY=34&desc=Backend%20%26amp%3B%20Full-Stack%20Engineer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20React&descAlignY=54&descSize=18" alt="Uttkarsh Thakur" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Uttkarsh%20Thakur&fontSize=54&fontColor=ffffff&fontAlignY=34&desc=Backend%20%26amp%3B%20AI%2FML%20Engineer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20Python&descAlignY=54&descSize=18" alt="Uttkarsh Thakur" width="100%" />
 
 <p>
   <a href="https://www.linkedin.com/in/uttkarsh-thakur-76979228a/">
@@ -23,13 +23,7 @@
 
 ## About
 
-I am a final-year **B.Tech Computer Science** student at **Bennett University** (CGPA **8.17/10**, graduating May 2027), working mostly in **Java and Spring Boot** on the backend and **React with TypeScript** on the front.
-
-What I care about in the code I write:
-
-- **Correctness that is provable, not assumed.** In BillSync, every expense split is asserted to sum to the exact total, brute-forced across thousands of amount and group-size combinations, because money that drifts by a paisa per transaction stops reconciling by month three.
-- **Choosing the algorithm deliberately.** The debt simplifier is greedy, not optimal. The true optimum is the partition problem, which is NP-hard. Greedy runs in O(n log n), is deterministic, and is never worse than paying every debt directly, so it is the right engineering call. Knowing it *is* a call is the point.
-- **Measuring before claiming.** A group screen that made 22 database calls now makes 1. A codebase that took over 20 seconds to open now takes under 0.1.
+I am a final-year **B.Tech Computer Science** student at **Bennett University** (CGPA **8.17/10**, graduating May 2027), working mostly in **Java and Spring Boot** on the backend and **Python** for AI/ML.
 
 Currently going deeper on **distributed systems** and **multi-agent coordination**, which I presented as a seminar talk on agreement loops in multi-agent systems.
 
@@ -214,7 +208,7 @@ Coursework: Data Structures & Algorithms, Object-Oriented Programming, DBMS, Ope
 
 ### Get in touch
 
-Open to **backend and full-stack internships**. The fastest way to reach me is email.
+Open to **backend and AI/ML internships**. The fastest way to reach me is email.
 
 <a href="mailto:thakuruttkarsh2603@gmail.com">
   <img src="https://img.shields.io/badge/thakuruttkarsh2603@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
