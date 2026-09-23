@@ -95,14 +95,14 @@ Currently going deeper on **distributed systems** and **multi-agent coordination
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=uttkarsh-thakur26&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=uttkarsh-thakur26&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=0969da&text_color=1f2328" />
-  <img src="https://github-readme-stats.vercel.app/api?username=uttkarsh-thakur26&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Uttkarsh's GitHub stats" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg" />
+  <img src="./profile/stats-light.svg" alt="Uttkarsh's GitHub stats" height="165" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=uttkarsh-thakur26&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=uttkarsh-thakur26&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=00000000&title_color=0969da&text_color=1f2328" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttkarsh-thakur26&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true" alt="Top languages" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg" />
+  <img src="./profile/top-langs-light.svg" alt="Top languages" height="165" />
 </picture>
 
 <br/>
