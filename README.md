@@ -15,8 +15,6 @@
   <img src="https://img.shields.io/badge/Greater%20Noida,%20India-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Greater Noida, India" />
 </p>
 
-<p><em>I build backends that are correct under the boring cases nobody tests, and the interesting ones everybody hits.</em></p>
-
 </div>
 
 ---
