@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Uttkarsh%20Thakur&fontSize=54&fontColor=ffffff&fontAlignY=34&desc=Backend%20%26%20Full-Stack%20Engineer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20React&descAlignY=54&descSize=18" alt="Uttkarsh Thakur" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Uttkarsh%20Thakur&fontSize=54&fontColor=ffffff&fontAlignY=34&desc=Backend%20%26amp%3B%20Full-Stack%20Engineer%20%7C%20Java%20%C2%B7%20Spring%20Boot%20%C2%B7%20React&descAlignY=54&descSize=18" alt="Uttkarsh Thakur" width="100%" />
 
 <p>
   <a href="https://www.linkedin.com/in/uttkarsh-thakur-76979228a/">
