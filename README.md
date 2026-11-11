@@ -105,8 +105,6 @@ I am a final-year **B.Tech Computer Science** student at **Bennett University** 
 
 </div>
 
-> The language card is weighted equally by repository count and bytes, so a single notebook repo carrying a large dataset does not drown out everything else.
-
 ---
 
 ## Featured Projects
