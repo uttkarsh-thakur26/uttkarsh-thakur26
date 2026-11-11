@@ -164,23 +164,6 @@ Members log what they paid, and BillSync works out who owes whom, then collapses
 | **Money never touches a float** | `NUMERIC(12,2)` in Postgres, `BigDecimal` in Java, a string on the wire. |
 | **Scale** | 16 REST endpoints, 6 tables under Flyway migrations, 73 automated tests. One slow screen went from 22 queries to 1 via `@EntityGraph`. |
 
-### Motion Sensing System: human activity recognition
-
-[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/uttkarsh-thakur26/Motion-Sensing-System)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-Recognises human activities from live video by fine-tuning **VGG16** rather than training from scratch, served as a live dashboard.
-
-### Diabetes Risk Prediction
-
-[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/uttkarsh-thakur26/Diabetes-Risk-Prediction-Using-Machine-Learning)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-Classical ML pipeline for predicting diabetes risk from clinical indicators.
-
 ---
 
 ## Achievements
